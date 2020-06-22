@@ -17,10 +17,10 @@
           <n-button type="primary" round simple>Simple</n-button>
         </div>
       </div>
-      <p class="category">Pick your size</p>
+      <p class="category">Pick yourdwadwa</p>
       <div class="row">
         <div class="col-md-10">
-          <n-button type="primary" size="sm">Small</n-button>
+          <n-button type="primary" size="sm">Smalled</n-button>
           <n-button type="primary">Regular</n-button>
           <n-button type="primary" size="lg">Large</n-button>
         </div>
