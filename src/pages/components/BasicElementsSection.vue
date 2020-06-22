@@ -2,7 +2,7 @@
   <div class="section section-basic" id="basic-elements">
     <div class="container">
       <h3 class="title">Basic Elements</h3>
-      <h4>Sruttons</h4>
+      <h4>Sruttonsg</h4>
       <p class="category">Pick your style</p>
       <div class="row">
         <div class="col-md-10">
